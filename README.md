@@ -359,7 +359,9 @@ overseer-advisor/
 ---
 ## Screenshot
 <img width="937" height="842" alt="image" src="https://github.com/user-attachments/assets/5ebe1e30-c3a5-4cc4-aa28-da160b8924e2" />
+
 ---
+
 ## Important Notes
 
 - The main Apps Script code is located in `V18.txt`.
@@ -398,7 +400,8 @@ Interest areas:
 - GPT model workflows
 - Financial analysis tools
 - 
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/667ae28d-f389-416b-8be1-0d780be06ba0" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f0b35a52-dd76-446b-a833-b66ef9ed4511" />
+
 
 ---
 
