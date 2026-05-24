@@ -26,7 +26,7 @@ To install the app, open Google Sheets, go to **Extensions > Apps Script**, then
 
 ## What This Project Does
 
-Overseer Advisor turns a simple stock ticker input into a structured stock analysis workflow.
+Overseer Advisor turns a simple stock ticker input into a structured stock analysis workflow. Current version workd with US Stocks
 
 Users can enter tickers such as:
 
@@ -35,7 +35,6 @@ NASDAQ:AAPL
 NASDAQ:TSLA
 NYSE:KO
 HKG:0700
-KLSE:MAYBANK
 ```
 
 The workbook then helps retrieve market data, calculate useful investment metrics, generate scoring outputs, highlight risks, estimate returns, and present the results in a clear dashboard format.
