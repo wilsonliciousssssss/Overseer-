@@ -357,7 +357,9 @@ overseer-advisor/
 - Visual reporting and conditional formatting
 
 ---
-
+## Screenshot
+<img width="937" height="842" alt="image" src="https://github.com/user-attachments/assets/5ebe1e30-c3a5-4cc4-aa28-da160b8924e2" />
+---
 ## Important Notes
 
 - The main Apps Script code is located in `V18.txt`.
@@ -395,6 +397,8 @@ Interest areas:
 - Codex-assisted development
 - GPT model workflows
 - Financial analysis tools
+- 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/667ae28d-f389-416b-8be1-0d780be06ba0" />
 
 ---
 
