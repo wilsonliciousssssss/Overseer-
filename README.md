@@ -1,4 +1,5 @@
 # Overseer Advisor
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/6258d049-d602-4089-8d2a-0ad485955b76" />
 
 **Overseer Advisor** is a Google Sheets-based stock analysis and learning dashboard powered by **Google Apps Script** and **GoogleFinance**.
 
